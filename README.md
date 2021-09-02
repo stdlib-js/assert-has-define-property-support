@@ -18,7 +18,7 @@ limitations under the License.
 
 -->
 
-# `Object.defineProperty` Support
+# Object.defineProperty Support
 
 [![NPM version][npm-image]][npm-url] [![Build Status][test-image]][test-url] [![Coverage Status][coverage-image]][coverage-url] [![dependencies][dependencies-image]][dependencies-url]
 
